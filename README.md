@@ -1,13 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18&height=180&section=header&text=Hi,%20I'm%20Tiến!&fontSize=38&fontColor=fff&animation=fadeIn" width="100%"/>
-  <h3>✨ Second-year Software Engineering student 💻</h3>
+  <h2>✨ Second-year Software Engineering student 💻</h2>
+  <br>
 </div>
 
-<br>
-
-<hr>
-
-### 📌 About Me
+## 📌 About Me
 
 <img
   align="left"
@@ -17,19 +14,17 @@
   alt="Frieren"
 />
 
-<h4>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL.</h4>
+<h3>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL.</h3>
 
-<h4>🎯 <b>Goal:</b> Backend Developer.</h4>
+<h3>🎯 <b>Goal:</b> Backend Developer.</h3>
 
-<h4>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h4>
+<h3>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h3>
 
-<h4>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏.</h4>
-
-<br clear="left"/>
-
+<h3>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏.</h3>
 <hr>
+<br>
 
-### 🛠️ Programming Languages & Tools
+## 🛠️ Programming Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp" alt="languages" />
@@ -38,9 +33,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,windows&theme=dark" />
 </p>
 
-<hr>
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
