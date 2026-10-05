@@ -1,11 +1,9 @@
-<!-- BANNER ĐẦU TRANG -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18&height=180&section=header&text=Hi,%20I'm%20Tiến!&fontSize=38&fontColor=fff&animation=fadeIn" width="100%"/>
-  <p>✨ <i>Second-year Software Engineering student</i> 💻</p>
+  <h3>✨ Second-year Software Engineering student 💻</h3>
 </div>
 
-<br/>
+<br>
 
 <hr>
 
@@ -25,7 +23,7 @@
 
 <h4>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h4>
 
-<h4>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏</h4>
+<h4>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏.</h4>
 
 <br clear="left"/>
 
