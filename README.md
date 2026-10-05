@@ -1,29 +1,33 @@
+<!-- BANNER ĐẦU TRANG -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18&height=180&section=header&text=Hi,%20I'm%20Tiến!&fontSize=38&fontColor=fff&animation=fadeIn" width="100%"/>
-  <h3>✨ <i>Second-year Software Engineering student</i> 💻</h3>
+  <p>✨ <i>Second-year Software Engineering student</i> 💻</p>
 </div>
+
+<br/>
 
 <hr>
 
 ### 📌 About Me
 
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <img src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
-           width="180px"
-           alt="Frieren"/>
-    </td>
-    <td width="65%">
-      <ul>
-        <li>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL, Computer Networks, and Operating Systems.</li>
-        <li>🎯 <b>Goal:</b> Become a Backend Developer.</li>
-        <li>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</li>
-        <li>✨ <b>Hobby:</b> Music🎧, Photography📸, Traveling🌏</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img
+  align="left"
+  width="180"
+  hspace="20"
+  src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
+  alt="Frieren"
+/>
+
+<h4>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL.</h4>
+
+<h4>🎯 <b>Goal:</b> Backend Developer.</h4>
+
+<h4>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h4>
+
+<h4>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏</h4>
+
+<br clear="left"/>
 
 <hr>
 
