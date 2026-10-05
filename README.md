@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18&height=180&section=header&text=Hi,%20I'm%20Tiến!&fontSize=38&fontColor=fff&animation=fadeIn" width="100%"/>
   <h2>✨ Second-year Software Engineering student 👾</h2>
-  <br>
 </div>
 
 ## 📌 About Me
