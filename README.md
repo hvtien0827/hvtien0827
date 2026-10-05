@@ -1,11 +1,7 @@
-<!-- BANNER ĐẦU TRANG -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18&height=180&section=header&text=Hi,%20I'm%20Tiến!&fontSize=38&fontColor=fff&animation=fadeIn" width="100%"/>
-  <p>✨ <i>Second-year Software Engineering student</i> 💻</p>
+  <h3>✨ <i>Second-year Software Engineering student</i> 💻</h3>
 </div>
-
-<br/>
 
 <hr>
 
@@ -28,8 +24,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 <hr>
 
