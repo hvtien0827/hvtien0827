@@ -20,7 +20,7 @@
 
 <h3>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h3>
 
-<h3>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏.</h3>
+<h3>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏</h3>
 <hr>
 <br>
 
