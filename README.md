@@ -5,27 +5,31 @@
 
 ## 📌 About Me
 
-<p align="center">
-  <img
-    src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
-    width="180"
-    alt="Frieren plush toy"
-  />
-</p>
+<img
+  align="left"
+  width="180"
+  hspace="20"
+  src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
+  alt="Frieren"
+/>
 
-### 🌱 **Currently:** Learning C++, OOP, HTML/CSS, JavaScript, SQL.
-### 🎯 **Goal:** Backend Developer.
-### 🎓 **Education:** Second-year Software Engineering student at Thuyloi University.
-### ✨ **Hobbies:** Music 🎧, Photography 📸, Traveling 🌏
+<h3>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL.</h3>
 
+<h3>🎯 <b>Goal:</b> Backend Developer.</h3>
+
+<h3>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h3>
+
+<h3>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏</h3>
 <hr>
+<br>
 
 ## 🛠️ Programming Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp" alt="languages" />
   <br>
-  <img src="./assets/tools.svg" alt="Git, GitHub, Visual Studio Code, SQL Server, Windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"alt="tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,windows&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
