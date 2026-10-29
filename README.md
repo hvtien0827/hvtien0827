@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp&theme=dark" alt="languages" />
   <br><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,sqlserver,windows&theme=dark" alt="tools" />
+  <img src="./assets/tools.svg" width="280" alt="Git, GitHub, Visual Studio Code, SQL Server, Windows" />
 </p>
 
 ## 📊 GitHub Stats
