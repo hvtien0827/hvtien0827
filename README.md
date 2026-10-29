@@ -5,23 +5,25 @@
 
 ## 📌 About Me
 
-<img
-  align="left"
-  width="165"
-  style="border-radius: 14px; margin-right: 18px; margin-bottom: 8px;"
-  src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
-  alt="Frieren"
-/>
+<table width="100%">
+  <tr>
+    <td width="190" align="center" valign="middle">
+      <img
+        width="180"
+        style="border-radius: 14px;"
+        src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
+        alt="Frieren"
+      />
+    </td>
+    <td>
+      <h3>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL.</h3>
+      <h3>🎯 <b>Goal:</b> Backend Developer.</h3>
+      <h3>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h3>
+      <h3>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏</h3>
+    </td>
+  </tr>
+</table>
 
-<h3>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL.</h3>
-
-<h3>🎯 <b>Goal:</b> Backend Developer.</h3>
-
-<h3>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h3>
-
-<h3>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏</h3>
-
-<br clear="left">
 <hr>
 
 ## 🛠️ Programming Languages & Tools
