@@ -24,8 +24,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp&theme=dark" alt="languages" />
-  <br><br>
-  <img src="./assets/tools.svg" width="280" alt="Git, GitHub, Visual Studio Code, SQL Server, Windows" />
+  <br>
+  <img src="./assets/tools.svg" alt="Git, GitHub, Visual Studio Code, SQL Server, Windows" />
 </p>
 
 ## 📊 GitHub Stats
