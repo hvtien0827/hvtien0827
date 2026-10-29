@@ -5,24 +5,18 @@
 
 ## 📌 About Me
 
-<table width="100%">
-  <tr>
-    <td width="190" align="center" valign="middle">
-      <img
-        width="180"
-        style="border-radius: 14px;"
-        src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
-        alt="Frieren"
-      />
-    </td>
-    <td>
-      <h3>🌱 <b>Currently:</b> Learning C++, OOP, HTML/CSS, JavaScript, SQL.</h3>
-      <h3>🎯 <b>Goal:</b> Backend Developer.</h3>
-      <h3>🎓 <b>Education:</b> Second-year Software Engineering student at Thuyloi University.</h3>
-      <h3>✨ <b>Hobby:</b> Music 🎧, Photography 📸, Traveling 🌏</h3>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://i.pinimg.com/736x/cf/7f/59/cf7f5989fd14d2944e1b8886f68542e9.jpg"
+    width="180"
+    alt="Frieren plush toy"
+  />
+</p>
+
+- 🌱 **Currently:** Learning C++, OOP, HTML/CSS, JavaScript, SQL.
+- 🎯 **Goal:** Backend Developer.
+- 🎓 **Education:** Second-year Software Engineering student at Thuyloi University.
+- ✨ **Hobbies:** Music 🎧, Photography 📸, Traveling 🌏
 
 <hr>
 
