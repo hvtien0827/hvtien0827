@@ -13,10 +13,10 @@
   />
 </p>
 
-- 🌱 **Currently:** Learning C++, OOP, HTML/CSS, JavaScript, SQL.
-- 🎯 **Goal:** Backend Developer.
-- 🎓 **Education:** Second-year Software Engineering student at Thuyloi University.
-- ✨ **Hobbies:** Music 🎧, Photography 📸, Traveling 🌏
+### 🌱 **Currently:** Learning C++, OOP, HTML/CSS, JavaScript, SQL.
+### 🎯 **Goal:** Backend Developer.
+### 🎓 **Education:** Second-year Software Engineering student at Thuyloi University.
+### ✨ **Hobbies:** Music 🎧, Photography 📸, Traveling 🌏
 
 <hr>
 
